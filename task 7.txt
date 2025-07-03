@@ -1,0 +1,8 @@
+task 7
+
+used the edge extension : edge://extensions/  :
+grammerly extension and google docs offline extension present
+
+details for the extension of grammerly and google docs screenshot provided below
+
+
